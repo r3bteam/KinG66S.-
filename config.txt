@@ -1,5 +1,5 @@
 token=NTAyNTcwNzE0NDAzMTc2NDg4.Dqp3bg.qwCY-7e6NXHul2bEpNJ11eT4tMI
 owner=441683368418082836 
-prefix=K
+prefix=K6
 stayinchannel=true
 songinstatus=true
